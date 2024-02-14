@@ -17,12 +17,12 @@ Copy and paste to your local drive all the files contained in the "Labview_codes
 
 ## Running the tests
 
-![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Keyboard-XY-Stage-NikonTI2/blob/main/Images/GUI.png) 
+ 
 
 <ul>
 <li> Double-click on the <i>Keyboard_Main.vi</i> file</li>
 <li> Click on the Run arrow to run the vi</li>
-<li> Two panels are available:
+<li> Two panels are available:</li>
 	<ul>
 		<li> <i>User panel</i> tab:</li>
 		<ul>
@@ -62,6 +62,11 @@ Copy and paste to your local drive all the files contained in the "Labview_codes
 	<li> <i>Shift + Ctrl + 4 arrow</i>: move the Z-objective axis backward several steps</li>
 	<ul>
 </ul>
+
+
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Keyboard-XY-Stage-NikonTI2/blob/main/Images/GUI.png)
+
+
 
 ## Versioning
 
