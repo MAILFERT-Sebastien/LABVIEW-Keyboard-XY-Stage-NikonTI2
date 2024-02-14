@@ -23,7 +23,7 @@ Copy and paste to your local drive all the files contained in the "Labview_codes
 <ul>
 <li> Double-click on the <i>Keyboard_Main.vi</i> file</li>
 <li> Click on the Run arrow to run the vi</li>
-<li> Two panels are available:</li>
+<li> Two panels are available:
 <ul>
 		<li> <i>User panel</i> tab:</li>
 		<ul>
@@ -45,7 +45,7 @@ Copy and paste to your local drive all the files contained in the "Labview_codes
 	</ul></li>
 
 <li> Commands to move the XY stage, the Z-piezo stage or the objective
-	<ul>
+<ul>
 		<li> <i>Shift + Right arrow</i>: move the X axis one step forward</li>
 		<li> <i>Shift + Ctrl + Right arrow</i>: move the X axis forward several steps</li>
 		<li> <i>Shift + Left arrow</i>: move the X axis one step backward</li>
