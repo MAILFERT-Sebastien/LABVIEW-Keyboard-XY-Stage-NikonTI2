@@ -12,6 +12,9 @@ This software is designed to control a PI C867 + E709 and a Nikon TI2 microscope
 <li> You need Labview 2023 32-bit or a newer version</li>
 </ul>
 
+> [!TIP]
+> If you contact me, I can provide you with a version that is compatible with yours (older or newest).
+
 ## Installing
 Copy and paste to your local drive all the files contained in the "Labview_codes" folder.
 
